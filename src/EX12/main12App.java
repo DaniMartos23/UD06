@@ -13,6 +13,7 @@ public class main12App {
 		array=generaArray(dim);
 		
 		imprimeNumeros(sc,array);
+		sc.close();
 
 	}
 
